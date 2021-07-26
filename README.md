@@ -1,4 +1,4 @@
 # Recriação da interface da Netflix
-Cobra é o nome comum para um conceito de videogame em que o jogador manobra uma linha que cresce em comprimento, sendo a própria linha o principal obstáculo.
+Projeto desenvolvido a partir do curso da Digital Innovation One. 
 
-Maiores informações na página da [Wikipedia](https://en.wikipedia.org/wiki/Snake_(video_game_genre)
+![NETFLIX-CLONE](https://user-images.githubusercontent.com/76877302/127068279-02c13b68-e255-40ce-b892-909f72521281.jpg)
